@@ -5,7 +5,9 @@ The archive contains a complete frontend project which can run with `npm install
 and can be containerized with Docker using the provided Dockerfile.
 
 ## 界面预览
-1.png
+![示意图 1](./1.png)
+![示意图 2](./2.png)
+
 
 ## Quick start
 
@@ -25,7 +27,7 @@ Docker:
 docker build -t aichatbot-frontend:latest .
 docker run -p 8080:80 aichatbot-frontend:latest
 ```
-demo 
+demo  可访问样例
 https://safe.robotmusk.com
 
 2.png
